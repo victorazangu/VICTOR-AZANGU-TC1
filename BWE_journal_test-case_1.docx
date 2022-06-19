@@ -1,0 +1,28 @@
+about the project
+
+#simple crud app using pure php and mysql for backend and front end i used html and bootstrap for styling 
+
+#it took me approximately 26 hours, 23 hours for codding/programming and implementing the concept 3 hour for
+ debuging and testing the functionality
+#the app is used to insert data that is name, First Name, Email, Street, Zip code, city, into the database and you 
+can manipulate the data that is delete, update, insert and be able to view in the user interface 
+#the application has two dashboard the super admin and the user,
+the super admin needs to logged in with his/her specific credentials that is email address and password
+super admin credentials
+#email - victorsazangu@gmail.com
+#password - 1234567890
+#other users can log in with either email or google it will direct them to user dashboard
+#admin can view all the recordsin his dashboard,number of google users email users ,can also add a record to the database
+#in  order to work on the application ypu need to have an account you can sign in with google or using email adress
+# on the top left conner its a name of the admin and email of the admin 
+#you can fill in the detals when you click submit the datails will be added in the database 
+#you can view the records on view page
+#on view you will see all the records in the database 
+#you can click on the delete button to delete the record in the database
+#you can also click the update button to change the details in the database to new details
+
+# github project location - https://github.com/victorazangu/VICTOR-AZANGU-TC1.git
+# my github account - https://github.com/victorazangu/
+# my linkedin account - https://www.linkedin.com/in/victor-shem-7a13821a3/
+
+design & developed by victor azangu
